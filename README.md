@@ -17,6 +17,9 @@ The `test.py` file contains code that will run H-QADBO on a very simple dataset.
 ## References
 <a id="1">[1]</a> 
 Kriegel, Hans-Peter, Matthias Schubert, and Arthur Zimek. "Angle-based outlier detection in high-dimensional data." Proceedings of the 14th ACM SIGKDD international conference on Knowledge discovery and data mining. 2008.
+
 <a id="2">[2]</a> 
-Bernasconi, A., Berti, A., Del Corso, G. M., & Poggiali, A. (2024). Quantum subroutine for efficient matrix multiplication. IEEE Access.
+Bernasconi, A., Berti, A., Del Corso, G. M., Guidotti, R., & Poggiali, A. (2024). Quantum subroutine for variance estimation: algorithmic design and applications. Quantum Machine Intelligence, 6(2), 78.
+
 <a id="3">[3]</a> 
+Bernasconi, A., Berti, A., Del Corso, G. M., & Poggiali, A. (2024). Quantum subroutine for efficient matrix multiplication. IEEE Access.
