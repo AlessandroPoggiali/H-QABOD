@@ -12,7 +12,7 @@ To run a simple demostration of the H-QABOD algorithm, follow these steps:
 * Clone this repo with `git clone https://github.com/AlessandroPoggiali/H-QABOD.git`
 * Navigate to the H-QABOD directory and run the command `python3 H-QABOD.py`
 
-The `test.py` file contains code that will run H-QADBO on a very simple dataset.
+The `HQABOD.py` file contains code that will run H-QADBO on a very simple dataset.
 
 ## References
 <a id="1">[1]</a> 
